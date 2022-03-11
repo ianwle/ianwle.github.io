@@ -1,13 +1,16 @@
 # Degree
-- degree: Bachelor of Arts, Human Rights
-  uni: Yale University
-  year: 2004 &mdash; 2008
+- degree: Master of Engineering
+  uni: University of California Berkeley
+  year: 2021 &mdash; 2022
   awards:
-    - award: Summa Cumme Laude graduate
-  summary: If you had any meaningful roles at college, feel free to write about them here
+    - award: Courses in data analytics, linear programming and optimization, machine learning, project management, financial engineering.
+    - award: Capstone project on natural language processing for economic resilience to natural hazards.
+  summary: During my time at the University of California, Berkeley, I was actively involved in projects relating to machine learning and artificial intelligence. I also took part actively in student life, being a member of the UC Berkeley Hiking Club (CHAOS), the Cal Climbing Club, the Singaporean Students Association (SSA) and the Asian Americans Association (AAA).
 
-- degree: High School Diploma
-  uni: Springfield High School
-  year: 2004
-  award: Most likely to succeed
-  summary: You can choose to have either a single or multiple awards
+- degree: Bachelor of Computing (First Class Honours), Computer Science
+  uni: National University of Singapore
+  year: 2017 &mdash; 2021
+  awards:
+    - award: Courses in data structures, databases, user interfaces, software engineering and testing, applied mathematics (linear algebra, statistics, calculus), information systems, computer vision, theory of computation, operating systems. 
+    - award: NUS School of Computing-NUS Enterprise I&E Practicum Award, NUS School of Computing Special Merit Award, NUS Faculty of Arts and Social Sciences Centre for Language Studies Prize, NUS School of Computing Dean’s List.
+  summary: During my time at the National University of Singapore, I went through an intensive, four-year long technical program that equipped me with fundamental knowledge of applied mathematics, computer science, and computer engineering. I won several academic grants and awards, and was actively involved in student life, being part of the NUS Karate Association and leading the NUS Space Club as the President.

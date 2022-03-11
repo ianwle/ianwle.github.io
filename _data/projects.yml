@@ -2,15 +2,16 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
+- project: Data Terrain
+  role: Developer
+  duration: 2020 &mdash; 2021
   # url: "#"
-  description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
+  description: Data Terrain is an interactive data visualization tool, built using JavaScript, ReactJS, Python, SQL, and GraphQL. It combined the advanced web technologies, such as Web Workers and IndexedDB, to provide an offline-possible visualization experience.<br/><br/> Awarded a $10,000 SGD grant by the NUS School of Computing and NUS Enterprise, and I was awarded a $2,000 SGD Special Merit Award by the NUS School of Computing. The project is accessible <a href="https://dataterrain.herokuapp.com">here</a>.
 
 # Springfield Community Outreach Group
-- project: Springfield Community Outreach Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+- project: Static Program Analyzer
+  role: Developer
+  duration: 2019 &mdash; 2019
   # url: "#"
-  description: SCOG is a local monthly meetup in Springfield where we share opportunities to volunteer in the community and organize support for families and neighborhoods in need of assistance that the community can provide.
+  description: Developed a static program analyzer in C/C++ and Qt with type analysis and syntax checking system. As part of this project, I designed and implemented the software architecture and applied software design patterns. Accessible on GitHub.
+

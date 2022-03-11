@@ -1,10 +1,20 @@
 # Recognitions
-- award: Outstanding Achievement
-  organization: Springfield Young Professionals
-  year: 2010, 2014
-  summary: Awarded the Outstanding Achievement award for contributions made to the community and professional accomplishments.
+- award: Special Merit Award
+  organization: NUS School of Computing
+  year: 2021
+  summary: Awarded the NUS School of Computing Special Merit Award for CP4101 Thesis Project, Data Terrain.
 
-- award: Most Likely To Succeed
-  organization: Springfield High School
-  year: 2004
-  summary: Voted Most Likely To Succeed by a panel of my high school peers.
+- award: Centre for Language Studies Prize
+  organization: NUS Faculty of Arts and Social Sciences
+  year: 2021
+  summary: Awarded the Centre for Language Studies Prize for academic achievement and excellence in studying Indonesian language and literature, graduating top of the cohort.
+
+- award: Dean's List AY2020/21
+  organization: NUS School of Computing
+  year: 2021
+  summary: Awarded the Dean's List for being in top 5% of the cohort.
+
+- award: I&E Practicum Award
+  organization: NUS School of Computing, NUS Enterprise
+  year: 2020
+  summary: Awarded the NUS School of Computing and NUS Enterprise I&E Practicum Award, with access to entrepreneurship advisors.
